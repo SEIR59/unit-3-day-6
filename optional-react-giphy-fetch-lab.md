@@ -2,6 +2,8 @@
 
 # React Giphy Fetch Lab
 
+https://codesandbox.io/s/giphy-fetch-lab-ext8go
+
 ## Intro
 
 Now that you have learned how to fetch outside data using React, we are going to practice those skills by interacting with the [Giphy API](https://developers.giphy.com/)!
