@@ -1,0 +1,2 @@
+Solution link:
+https://codesandbox.io/s/giphy-fetch-lab-479scm?file=/src/components/GifListItem/GifListItem.css
